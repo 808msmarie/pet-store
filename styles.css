@@ -1,0 +1,25 @@
+body{
+	background-color: pink;
+}
+
+#allpets{
+	background-color: lightblue;
+	text-align: center;
+}
+
+.individual-pet{
+	border-style: solid;
+	Border-width: 1px;
+}
+img{
+	width: 50px;
+	height: 50px;
+}
+h2{
+	color: yellow;
+
+}
+p{
+	font-size: 20px;
+	font-family: "comic sans Ms";
+}
